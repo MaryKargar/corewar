@@ -1,0 +1,2 @@
+#pragma once
+#define PMARS_CMAKE "@PMARS_PATH@"
